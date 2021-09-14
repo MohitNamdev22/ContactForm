@@ -1,0 +1,59 @@
+.box{
+    background-color: rgb(78, 78, 78);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-family:monospace;
+    font-size: 17px;
+    font-weight: 150;
+    color: whitesmoke;
+    letter-spacing: 1px;
+}
+
+#form{
+    background-color: azure;
+    border: 1px transparent;
+    border-radius: 10px;
+    margin: 75px;
+    
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(73, 77, 77);
+    text-align: center;
+    padding-top: 13px;
+    font-size: 25px;
+    font-weight: 120;
+
+}
+#name,#email,#msg,#sub{
+    width: 95%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+#p1,#p2,#p3,#p4{
+    padding-top: 12px;
+    padding-left: 20px;
+}
+
+#btn{
+    
+    background-color:whitesmoke;
+    border-radius: 1px white;
+    margin-left: 50%;
+    margin-bottom: 10px;
+    border: none;
+    padding:5px;
+    border-radius: 5px;
+    font-family:monospace ;
+    font-size: 20px;
+    letter-spacing: 1px;
+    cursor: pointer;
+
+}
+#btn:hover{
+    background-color: rgb(120, 122, 122);
+    color: rgb(255, 255, 255);
+}
+
