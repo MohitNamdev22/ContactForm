@@ -40,11 +40,11 @@ h1{
 #btn{
     
     background-color:whitesmoke;
-    border-radius: 1px white;
+    border-radius: 2px white;
     margin-left: 50%;
     margin-bottom: 10px;
     border: none;
-    padding:5px;
+    padding:4px;
     border-radius: 5px;
     font-family:monospace ;
     font-size: 20px;
